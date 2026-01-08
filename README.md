@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UlrichRene
+- 👋 Hi, I’m @UlrichSeujip
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning web programming
 - 💞️ I’m looking to collaborate on ...
