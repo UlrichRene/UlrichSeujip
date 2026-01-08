@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning web programming
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me seujipworks@gmail.com
+- 📫 How to reach me seujip00@gmail.com
 
 <!---
 UlrichRene/UlrichRene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
